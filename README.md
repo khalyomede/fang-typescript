@@ -2,6 +2,8 @@
 
 Transpiles your Typescript files and generates declaration files.
 
+[![npm](https://img.shields.io/npm/v/@fang/typescript)](https://npmjs.com/package/@fang/core) [![NPM](https://img.shields.io/npm/l/@fang/typescript)](https://github.com/khalyomede/fang-typescript/blob/master/LICENSE) ![npm peer dependency version](https://img.shields.io/npm/dependency-version/@fang/typescript/peer/@fang/core) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/@fang/typescript) ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/@fang/typescript)
+
 ## Summary
 
 - [About](#about)
