@@ -1,6 +1,6 @@
 {
 	"name": "@fang/typescript",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Transpiles your Typescript files and generates declaration files.",
 	"main": "lib/index.js",
 	"repository": "https://github.com/khalyomede/fang-typescript",
