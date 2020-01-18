@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] 2020-01-18
+
+### Added
+
+- Downloading the NPM package will be faster (due to the addition of the necessary files in the `package.json`).
+
 ## [0.1.0] 2020-01-18
 
 ### Added
