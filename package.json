@@ -50,5 +50,9 @@
 	"dependencies": {
 		"rename": "1.*",
 		"typescript": "3.*"
-	}
+	},
+	"files": [
+		"lib/index.d.ts",
+		"lib/index.js"
+	]
 }
