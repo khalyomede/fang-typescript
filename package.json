@@ -45,7 +45,8 @@
 	"scripts": {
 		"build": "ncu && rollup -c && tsc --emitDeclarationOnly --declarationDir lib",
 		"test": "nyc --reporter=text mocha --require @babel/register --recursive --exit test",
-		"mutate": "stryker run"
+		"mutate": "stryker run",
+		"release": "np"
 	},
 	"dependencies": {
 		"rename": "1.*",
